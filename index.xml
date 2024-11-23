@@ -24,5 +24,12 @@
 &lt;h2 id=&#34;开机动画文件路径&#34;&gt;开机动画文件路径&lt;/h2&gt;
 &lt;p&gt;系统按优先级顺序从以下路径选择归档为 zip 文件的开机动画，第一个路径的优先级最高，然后依次递减：&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>RSA</title>
+      <link>https://usagisang.github.io/posts/rsa/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/rsa/</guid>
+      <description>&lt;p&gt;不同于传统的对称加密算法体系，非对称公私钥密码系统中的加密密钥和解密密钥是相互分开的，加密密钥用于公开给别人加密，而只有持有解密密钥的人才能对信息进行解密。1976年诞生过不少非对称密码算法，但是RSA是其中最容易让人理解的。下文将尝试对RSA实现的具体流程进行解析。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
