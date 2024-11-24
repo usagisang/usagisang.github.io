@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.139.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usagisang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gcd的递归与非递归实现</title>
+      <link>https://usagisang.github.io/posts/gcd%E7%9A%84%E9%80%92%E5%BD%92%E4%B8%8E%E9%9D%9E%E9%80%92%E5%BD%92%E5%AE%9E%E7%8E%B0/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/gcd%E7%9A%84%E9%80%92%E5%BD%92%E4%B8%8E%E9%9D%9E%E9%80%92%E5%BD%92%E5%AE%9E%E7%8E%B0/</guid>
+      <description>&lt;h2 id=&#34;欧几里得算法的自然语言描述&#34;&gt;欧几里得算法的自然语言描述&lt;/h2&gt;
+&lt;p&gt;计算两个非负整数p和q的最大公约数：若 q 是0，则最大公约数为p。否则，将 p 除以 q 得到余数 r，p和q的最大公约数即为 q 和 r 的最大公约数。&lt;/p&gt;
+&lt;h2 id=&#34;递归实现&#34;&gt;递归实现&lt;/h2&gt;
+&lt;p&gt;根据自然语言描述实现递归的 gcd 算法是比较容易的：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Android开机动画修改指南</title>
       <link>https://usagisang.github.io/posts/android%E5%BC%80%E6%9C%BA%E5%8A%A8%E7%94%BB%E4%BF%AE%E6%94%B9%E6%8C%87%E5%8D%97/</link>
@@ -25,11 +35,18 @@
 &lt;p&gt;系统按优先级顺序从以下路径选择归档为 zip 文件的开机动画，第一个路径的优先级最高，然后依次递减：&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rodrigues’ Rotation Formula</title>
+      <link>https://usagisang.github.io/posts/rodrigues-rotation-formula/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/rodrigues-rotation-formula/</guid>
+      <description>&lt;p&gt;关于三维空间中的旋转，我们以前提到过基于欧拉角的旋转表达矩阵，它们分别描述了围绕 x 轴、y 轴、z 轴旋转后坐标应当如何变化。事实上，我们可以更进一步，推导出一个通用的、围绕过原点的任意轴旋转的公式。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>RSA</title>
       <link>https://usagisang.github.io/posts/rsa/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/posts/rsa/</guid>
-      <description>&lt;p&gt;不同于传统的对称加密算法体系，非对称公私钥密码系统中的加密密钥和解密密钥是相互分开的，加密密钥用于公开给别人加密，而只有持有解密密钥的人才能对信息进行解密。1976年诞生过不少非对称密码算法，但是RSA是其中最容易让人理解的。下文将尝试对RSA实现的具体流程进行解析。&lt;/p&gt;</description>
+      <description>&lt;p&gt;不同于传统的对称加密算法体系，非对称公私钥密码系统中的加密密钥和解密密钥是相互分开的，加密密钥用于公开给别人加密，而只有持有解密密钥的人才能对信息进行解密。1976年诞生过不少非对称密码算法，但是 RSA 是其中最容易让人理解的。下文将尝试对 RSA 实现的具体流程进行解析。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
