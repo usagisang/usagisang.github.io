@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.139.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usagisang.github.io/tags/android/framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Framework与JNI</title>
+      <link>https://usagisang.github.io/posts/android-framework%E4%B8%8Ejni/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/android-framework%E4%B8%8Ejni/</guid>
+      <description>&lt;p&gt;本文以 android-12.0.0_r34 的代码进行分析。&lt;/p&gt;
+&lt;h2 id=&#34;framework中的jni&#34;&gt;framework中的JNI&lt;/h2&gt;
+&lt;p&gt;通常来说，Android framework 中使用到的 native 函数都是动态注册的，而且注册过程有固定的套路。我们以&lt;code&gt;Parcel&lt;/code&gt;类为例来解析套路。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Android开机动画修改指南</title>
       <link>https://usagisang.github.io/posts/android%E5%BC%80%E6%9C%BA%E5%8A%A8%E7%94%BB%E4%BF%AE%E6%94%B9%E6%8C%87%E5%8D%97/</link>

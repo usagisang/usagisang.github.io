@@ -28,9 +28,16 @@
       <description></description>
     </item>
     <item>
+      <title>Android</title>
+      <link>https://usagisang.github.io/tags/android/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Android/Framework</title>
       <link>https://usagisang.github.io/tags/android/framework/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/tags/android/framework/</guid>
       <description></description>
     </item>
@@ -39,6 +46,13 @@
       <link>https://usagisang.github.io/tags/%E6%95%B0%E5%AD%A6/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/tags/%E6%95%B0%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android/Compose</title>
+      <link>https://usagisang.github.io/tags/android/compose/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/tags/android/compose/</guid>
       <description></description>
     </item>
   </channel>
