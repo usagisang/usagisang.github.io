@@ -9,10 +9,21 @@
       <url>https://usagisang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://usagisang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.139.2</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usagisang.github.io/tags/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据流中的中位数</title>
+      <link>https://usagisang.github.io/posts/%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0/</guid>
+      <description>&lt;h2 id=&#34;link&#34;&gt;link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/CyC2018/CS-Notes/blob/master/notes/41.1%20%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md&#34;&gt;CS-Note 41.1 数据流中的中位数&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://leetcode.cn/problems/find-median-from-data-stream/&#34;&gt;Leetcode 295. 数据流的中位数&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;题目描述&#34;&gt;题目描述&lt;/h2&gt;
+&lt;p&gt;如何得到一个数据流中的中位数？如果从数据流中读出奇数个数值，那么中位数就是所有数值排序之后位于中间的数值。如果从数据流中读出偶数个数值，那么中位数就是所有数值排序之后中间两个数的平均值。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>gcd的递归与非递归实现</title>
       <link>https://usagisang.github.io/posts/gcd%E7%9A%84%E9%80%92%E5%BD%92%E4%B8%8E%E9%9D%9E%E9%80%92%E5%BD%92%E5%AE%9E%E7%8E%B0/</link>
