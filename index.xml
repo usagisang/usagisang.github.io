@@ -9,10 +9,22 @@
       <url>https://usagisang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://usagisang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usagisang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>删除排序链表中重复的结点</title>
+      <link>https://usagisang.github.io/posts/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9/</guid>
+      <description>&lt;h2 id=&#34;link&#34;&gt;link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/CyC2018/CS-Notes/blob/master/notes/18.2%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.md&#34;&gt;CS-Note 18.2 删除链表中重复的结点&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://leetcode.cn/problems/remove-duplicates-from-sorted-list&#34;&gt;Leetcode 删除排序链表中的重复元素&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii&#34;&gt;Leetcode 删除排序链表中的重复元素 II&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;题目描述&#34;&gt;题目描述&lt;/h2&gt;
+&lt;p&gt;在一个排序的链表中，存在重复的结点，请删除该链表中重复的结点，重复的结点不保留，返回链表头指针。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>数据流中的中位数</title>
       <link>https://usagisang.github.io/posts/%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0/</link>
@@ -30,8 +42,7 @@
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/posts/selinux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;本文大量参考了 Gentoo Linux 文档中与 SELinux 相关的 &lt;a href=&#34;https://wiki.gentoo.org/wiki/SELinux&#34;&gt;wiki&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;本文大量参考了 Gentoo Linux 文档中与 SELinux 相关的 &lt;a href=&#34;https://wiki.gentoo.org/wiki/SELinux&#34;&gt;wiki&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;SELinux 安全子系统是对基于 UNIX 权限位的 Linux 常规访问控制的补充，不同于常规访问控制，SELinux 提供的访问控制更加安全但同时也更加难以维护。SELinux 灵活且复杂，但它的工作原理其实很简单，我们将逐步深入，介绍 SELinux 支持的各种功能。&lt;/p&gt;</description>
     </item>
     <item>
@@ -61,8 +72,7 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://source.android.com/docs/devices/admin&#34;&gt;https://source.android.com/docs/devices/admin&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://developer.android.com/work/guide&#34;&gt;https://developer.android.com/work/guide&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/android/work/play/emm-api/prov-devices&#34;&gt;https://developers.google.com/android/work/play/emm-api/prov-devices&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/android/work/play/emm-api/prov-devices&#34;&gt;https://developers.google.com/android/work/play/emm-api/prov-devices&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;本文提到的“设备管理”并不面向终端用户，而是一种支持企业管理、监控和保护所有用于工作的移动设备的实际需要而产生的一系列框架。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关键术语&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -79,8 +89,7 @@
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/posts/android%E5%BC%80%E6%9C%BA%E5%8A%A8%E7%94%BB%E4%BF%AE%E6%94%B9%E6%8C%87%E5%8D%97/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;本文内容的基本骨架来源于对 frameworks/base/cmds/bootanimation/FORMAT.md 的整合翻译。以下介绍的所有内容只适用于 AOSP ，厂商可针对 BootAnimation.cpp 进行魔改，请以具体代码为准。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;本文内容的基本骨架来源于对 frameworks/base/cmds/bootanimation/FORMAT.md 的整合翻译。以下介绍的所有内容只适用于 AOSP ，厂商可针对 BootAnimation.cpp 进行魔改，请以具体代码为准。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;开机动画文件路径&#34;&gt;开机动画文件路径&lt;/h2&gt;
 &lt;p&gt;系统按优先级顺序从以下路径选择归档为 zip 文件的开机动画，第一个路径的优先级最高，然后依次递减：&lt;/p&gt;</description>
     </item>
@@ -105,8 +114,7 @@
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/posts/%E5%A6%82%E4%BD%95%E4%B8%BAcompose-image%E6%8F%90%E4%BE%9B%E7%BD%91%E7%BB%9C%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E6%94%AF%E6%8C%81/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;本文是源码分析类文章&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;本文是源码分析类文章&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;如何为Compose Image提供网络图片加载支持？目前（Compose 1.0.5）最好的选择似乎是使用图片框架Coil，Coil对Jetpack Compose相关的支持文档&lt;a href=&#34;https://coil-kt.github.io/coil/compose/&#34;&gt;在这&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
     <item>

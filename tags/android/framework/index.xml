@@ -9,7 +9,7 @@
       <url>https://usagisang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://usagisang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usagisang.github.io/tags/android/framework/index.xml" rel="self" type="application/rss+xml" />
@@ -28,8 +28,7 @@
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://usagisang.github.io/posts/android%E5%BC%80%E6%9C%BA%E5%8A%A8%E7%94%BB%E4%BF%AE%E6%94%B9%E6%8C%87%E5%8D%97/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;本文内容的基本骨架来源于对 frameworks/base/cmds/bootanimation/FORMAT.md 的整合翻译。以下介绍的所有内容只适用于 AOSP ，厂商可针对 BootAnimation.cpp 进行魔改，请以具体代码为准。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;本文内容的基本骨架来源于对 frameworks/base/cmds/bootanimation/FORMAT.md 的整合翻译。以下介绍的所有内容只适用于 AOSP ，厂商可针对 BootAnimation.cpp 进行魔改，请以具体代码为准。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;开机动画文件路径&#34;&gt;开机动画文件路径&lt;/h2&gt;
 &lt;p&gt;系统按优先级顺序从以下路径选择归档为 zip 文件的开机动画，第一个路径的优先级最高，然后依次递减：&lt;/p&gt;</description>
     </item>
