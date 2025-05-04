@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usagisang.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用Android的以太网共享功能模拟LAN网口</title>
+      <link>https://usagisang.github.io/posts/%E5%88%A9%E7%94%A8android%E7%9A%84%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%85%B1%E4%BA%AB%E5%8A%9F%E8%83%BD%E6%A8%A1%E6%8B%9Flan%E7%BD%91%E5%8F%A3/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://usagisang.github.io/posts/%E5%88%A9%E7%94%A8android%E7%9A%84%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%85%B1%E4%BA%AB%E5%8A%9F%E8%83%BD%E6%A8%A1%E6%8B%9Flan%E7%BD%91%E5%8F%A3/</guid>
+      <description>&lt;p&gt;本文的目标是在一个安装了 Android 系统的设备上模拟软路由。这个设备拥有三个网口，最终的目标是希望模拟出一个 WAN 网口和两个 LAN 网口。目标系统为 Android 14。&lt;/p&gt;
+&lt;p&gt;Android 14 提供了以太网共享网络的功能，借助这个功能，我们可以将一个网口模拟成 LAN 口，但可惜的是，这个功能只对一个网口生效。我们先简要分析一下其实现原理，然后再给出在有三个网口的机器上模拟出两个 LAN 接口的技术解决方案。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Android Framework与JNI</title>
       <link>https://usagisang.github.io/posts/android-framework%E4%B8%8Ejni/</link>
